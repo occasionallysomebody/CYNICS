@@ -1,4 +1,4 @@
-Hello! This is a repo of my Obsidian notes. I wanted a centralized knowledge management system (KMS) to avoid pinging my advisors for every new update. That way, they can view my research on their own terms.
+Hello! This is a repo of my Obsidian notes. I wanted a centralized knowledge management system (KMS) to avoid pinging my advisors for every new update. That way, they can view my progress on their own terms.
 ## What is Obsidian?
 Obsidian is a note taking app!
 ![[Pasted image 20260320175148.png|353]]
@@ -28,4 +28,9 @@ Whenever you come across a word you don't understand, stop everything and look i
 
 Taking down questions you have which may not be relevant to the paper completely should be looked at when you finish that paragraph.
 
-## Zettelkastin System
+## Zettelkasten System
+- Fleeting concepts
+- Irreducible ideas
+- Sentences > bullet points
+
+You've reached the end of this README 
