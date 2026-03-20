@@ -1,5 +1,4 @@
 # README
-
 Hello! This is a repo of my Obsidian notes. I wanted a centralized knowledge management system (KMS) to avoid pinging my advisors for every new update. That way, they can view my progress on their own terms.
 ## What is Obsidian?
 Obsidian is a note taking app!
