@@ -1,9 +1,10 @@
 # README
 Hello! This is a repo of my Obsidian notes. I wanted a centralized knowledge management system (KMS) to avoid pinging my advisors for every new update. That way, they can view my progress on their own terms.
 ## What is Obsidian?
+*Note to self: fix image loading in the future*
+
 Obsidian is a note taking app!
-![obsidianLogo](images/Pasted image 20260320175148.png)
-![image description](relative/path/in/repository/to/image.svg)
+
 It's really cool because you can create graph nodes using backlinks to show connections between your research topics over time:
 ![[Pasted image 20260320175214.png|514]]
 
