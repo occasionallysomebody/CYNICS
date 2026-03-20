@@ -10,5 +10,13 @@ It's really cool because you can create graph nodes using backlinks to show conn
 ## Why "Messy" Notes Are Good For Research
 Research is a non-linear. You're actually encouraged to go down rabbit holes! Research is different from school because there are no pre-defined answers. Often, you don't know if the problem you're trying to solve is even possible.
 
+## How To Read A Paper
+Order of Reading:
+1. Abstract
+2. Conclusion
+3. Intro
 
+Research papers are not novels. They're not 
 Whenever you come across a word you don't understand, stop everything and look into that topic.
+
+Taking down questions you have which may not be relevant to the paper completely should be looked at when you finish that paragraph.
