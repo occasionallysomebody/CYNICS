@@ -8,4 +8,6 @@ It's really cool because you can create graph nodes using backlinks to show conn
 ![[Pasted image 20260320175225.png|515]]
 
 ## Why "Messy" Notes Are Good For Research
-Res
+Research is a non-linear. You're actually encouraged to go down rabbit holes! Research is open-ended: you don't even know if the problem you're trying to solve has an answer.
+
+Whenever you 
