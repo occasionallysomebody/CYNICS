@@ -1,4 +1,3 @@
-# shiriaevConfidentialAICloudComputing_2024
 [Link To Original Paper](https://link.springer.com/content/pdf/10.1134/S0361768824700117.pdf) 
 Accessed March 20, 2026
 #### Tutorials
