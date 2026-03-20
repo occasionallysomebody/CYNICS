@@ -8,6 +8,7 @@ It's really cool because you can create graph nodes using backlinks to show conn
 ![[Pasted image 20260320175225.png|515]]
 
 ## Why "Messy" Notes Are Good For Research
-Research is a non-linear. You're actually encouraged to go down rabbit holes! Research is open-ended: you don't even know if the problem you're trying to solve has an answer.
+Research is a non-linear. You're actually encouraged to go down rabbit holes! Research is different from school because there are no pre-defined answers. Often, you don't know if the problem you're trying to solve is even possible.
 
-Whenever you 
+
+Whenever you come across a word you don't understand, stop everything and look into that topic.
