@@ -1,0 +1,226 @@
+Accessed March 20, 2026
+
+https://github.com/ieshreya/Obsidian-Cheat-Sheet (keyboard shortcuts)
+# Questions
+- Is cloud computing different from cloud technologies?
+	- [SamsungDifferenceCloudComputingServicePlatform](https://www.samsungsds.com/en/cloud-glossary/difference-cloud-computing-service-platform.html)
+- What is DDoS
+	- Distributed Denial-of-Service attack
+	- Many computers flood target with useless information
+	- [WikipediaDenialOfServiceAttack](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+- What's the difference between an algorithm and a function?
+	- algorithm = loose steps
+	- function = how to get there, RETURNS singular value
+- Define heuristic
+	- rule of thumb
+	- "good enough"
+	- approximation
+	- connection to pre-existing knowledge: Riemann sums are heuristic
+- What are genetic algorithms?
+	- inspired by natural selection
+	- not literally about genetics
+	- connection to: CGP Grey's AI video, teacher bot, student bots, "game of thrones" succession lol
+- Explain the difference between algorithms, machine learning, and neural networks
+	- algorithms have these characteristics:
+		- must end
+		- must be correct
+		- must take inputs
+		- must spit outputs
+		- can work across all programming languages -- pseudocode should be enough to convey an algorithm
+		- general: it's not just about "what's 3+4" but the concept of addition and "x+y": it should work across a "general class of problems" instead of a specific case
+	- machine learning:
+		- they USE algorithms to learn patterns in labeled data to make natural decisions when encountering unlabeled data
+		- instead of hard coding "stop at the red light", letting system come to judgement regarding scenario
+			- maybe it's too late to stop for the red light and would actually make it more dangerous to stop now
+			- the car behind you might not anticipate and result in a crash
+	- neural networks (_NN):
+		- [IBM Neural Networks](https://www.ibm.com/think/topics/neural-networks) 
+		- weights v biases
+			- biases ~ preferences
+		- problem: overfitting
+			- don't fully understand
+			- [IBM Overfitting](https://www.ibm.com/think/topics/overfitting) 
+			- ah: too reliant on training data, captures unnecessary variances, so model doesn't know what to do when encountering unlabeled real-world data
+		- what are attention mechanisms?
+			- [Google's Explanation on Attention Mechanisms](https://youtu.be/8PmOaVYVeKY) 
+			- pass all hidden states: more context
+		- what are valve matrices
+			- heh?
+			- find more info later
+		- deep-learning
+			- "deep learning a.k.a DL is a learning process of multi-layered NN (neural networks)"
+		- [Boltzmann Machine Wikipedia](https://en.wikipedia.org/wiki/Boltzmann_machine) 
+			- note to future self: you don't understand Boltzmann Machines
+				- There is something about total energy in the system
+				- Almost reminds me of atoms and energy levels
+				- I guess that's why there are ties with quantum computing?
+				- eh, might be beyond scope
+				- `or maybe the future of confidential AI requires quantum computing...thought experiment`
+					- `new term: Post-Quantum-Cryptography (PGC)` 
+				- `quantum-confidential ai. sounds expensive.`
+				- `some more terms:`
+					- `shadow ai`
+					- `*steganographic model*`  
+					- `nested agents`
+					- `enclave ai`
+						- `TEEs (trusted execution environments)`
+						- [NVIDIA's Confidential Computing](https://blogs.nvidia.com/blog/what-is-confidential-computing/) 
+							- root of trust (secured unique key per processor)
+							- ![[CYNICS/Pasted image 20260320153406.png]]
+							- [^1]: Attestation Diagram
+						- `Intel SGX`
+					- `secure model deployment`
+					- `encrypted inference`
+					- `this isn't just a software problem. it's a hardware problem. "hardware software sandwich"`
+						- `"why pick a door lock when you can just take the hinges off the door?"`
+						- `physical access means total access`
+					- `attestation (handshake/verification)`
+					- `idea: creating a service that "stealthifies" AI models`
+			- okay this is defined by even more complicated terms
+			- [maybe a simpler explanation](https://www.mygreatlearning.com/blog/understanding-boltzmann-machines/) 
+			- [RNN](https://www.mygreatlearning.com/blog/recurrent-neural-network/): recurrent neural network: preserve info across time skips
+				- loops
+			- [gibbs sampling](https://www.reddit.com/r/learnmath/comments/x4pqe/explain_to_me_like_im_five_gibbs_sampling/) 
+				- bayesian statistical inferencing oh dear
+					- more terms for later:
+					- monte carlo
+					- [markov chain](https://www.reddit.com/r/explainlikeimfive/comments/88yvn4/eli5_what_is_markov_chain_and_why_is_it_important/) 
+						- think about march madness brackets
+						- current info depends on previous info
+			- constrative divergence
+			- use cases: image recognition (good with grids?), NLP (natural language processing...recall this is done with tokens...AI splits words differently than humans), optimization/finances
+			- binary, (discrete...binomial...stats...)
+				- but gaussian => continuous
+				- Variational Autoencoders (VAEs)??
+				- Boltzmann machines...quantum computing
+				- [dtic (defense technical information center of U.S DOD): boltzmann machines and artifical intelligence 1985](https://apps.dtic.mil/sti/tr/pdf/ADA160644.pdf)  
+				- [Zhong et al ASD](https://www.ijml.org/index.php?m=content&c=index&a=show&catid=108&id=1139) 
+	- what does GPT stand for?
+		- Generative Pre-trained Transformer
+			- based on transformer architecture
+		- Type of neural network
+		- first gen released by OpenAI
+		- vectors encode meaning 
+			- how?? almost seems like a magical explanation
+	- [convolutional neural networks IBM](https://www.ibm.com/think/topics/convolutional-neural-networks) 
+		- **makes me think of Google recaptcha "select all images with a motorcycle/trafficlight/etc"** 
+		- wait, just brief recap
+			1. algorithms
+			2. machine learning algorithms
+			3. neural networks
+				// -- TYPES -- //
+				- GPT
+				- RNN
+				- etc...
+		- node layers
+			- input
+			- hidden stuff
+			- x number of layers
+				- whether or not information gets retained from each hidden layer to the next...time skips...loops...etc changes the type of NN (neural network??)
+				- feedforward (one-directional flow of information)
+				- backpropagation
+					- sorta like back-subbing in discrete math?
+			- output
+		- CovNets/CNNs (Convolutional Neural Networks)
+			- are "hidden layers" and "pooling layers" different?
+				- pooling layers "downsize"
+					- it's been a while since i've taken linear algebra; is this like projecting a 3d vector space onto a 2d space
+					- there is actually a name for this! `Principal Component Analysis (PCA)` 
+					- oh wait SVD (Singular Value Decomposition)
+					- reductions, scaling transformations, etc...
+- What are distributed computing systems? (i mean the name sounds self-explanatory but)
+	- how is this different from the "cloud" or "cloud computing"
+		- https://www.f5.com/resources/articles/cloud-vs-distributed-computing
+		- cloud computing is a form of distributed computing
+	- WAN (wide area network)
+> **Grid Computing:** The transition point between distributed computing and cloud computing
+- [Google Colab](https://colab.research.google.com/) 
+	- for writing python code in browser
+- load balancing
+	- "traffic cop"
+	- distribute across multiple servers
+- xx century: 20th century (1901-2000)
+> AI is essentially a CC (cloud computing) "consumer"
+- what is "soft" confidentiality
+	- e.g. anonymizing health records
+	- reliant on vendor promises
+	- not a hardware thing
+- option 1: **differential confidentiality:** mix private (anonymized) data with synthesized data
+	- what is synthesized data?
+		- "artificial" data? -- made up data designed to mimic real-world data
+	- issue: need to add in "noise" (synthesized data) for this to work
+	- what is [gradient descent?](https://www.ibm.com/think/topics/gradient-descent) prob has to do with calc III stuff
+		- optimization algorithm
+			- recall that an algorithm is a series of steps (etc...)
+			- option2: DIFFERENT APPROACH FROM DIFFERENTIAL CONFIDENTIALITY: **STOCHASTIC GRADIENT DESCENT** 
+				- "however it turns out to be ineffective in the case of prior collusion of the participants or an external attack" ugh.
+				- "a big difference between 'regular' gradient descent and stochastic gradient descent is that SGD updates weights one singular random training example at a time"
+				- random, noisier, but faster
+				- but because of the noise tradeoff, using minibatch gradient descent (subsets of gradient descent) preferred
+				- ![[CYNICS/Pasted image 20260320155000.png]]
+				- [^2]:[IBM stochastic gradient descent](https://www.ibm.com/think/topics/stochastic-gradient-descent) 
+					- gradients are derivatives
+					- derivatives are the slope of the line tangent to the curve
+		- ![[CYNICS/Pasted image 20260320150812.png]]
+		- takes the opposite direction to minimize cost
+		- [kaggle code demo](https://www.kaggle.com/code/christianwittmann/visualizing-gradient-descent-in-3d) 
+		- local minima and saddle points
+			- how do you know if you've reached the true a.k.a. global minimum? when do you know to stop?
+		- NaN (not a number)
+		- [ridge regression](https://www.ibm.com/think/topics/ridge-regression) 
+			- correct overfitting
+			- also called L2 regularization
+		- [logistic regression](https://www.ibm.com/think/topics/logistic-regression)
+			- classification algorithm aka sorting algorithm?
+			- guess discrete outputs
+			- stat 355: t-test and ANOVA
+			- question: why would you use logistic regression instead of linear regression?
+				- logistic: binary: binomial: discrete classification
+				- linear: predicts CONTINUOUS (think dnorm(...) function) values that can fall outside valid boudns
+			- keep in mind that there are three types of logistic regression models you should use depending on the type of data you have. this knowledge might come in handy later. but I'm not gonna dive into it much right now
+				- binary logistic regression
+				- multinomial logistic regression
+				- ordinal logistic regression
+					- ordinal means order matters
+			- churn as a concept: for less "quantitative things" like retention, culture, compensation
+				- churn is like opposite of retention
+		- [support vector machines](https://www.ibm.com/think/topics/support-vector-machine) 
+			- [kernel functions](https://www.geeksforgeeks.org/machine-learning/major-kernel-functions-in-support-vector-machine-svm/) 
+				- find the projection without doing the projection
+				- [naive bayes](https://www.google.com/search?q=what+is+naive+bayes&oq=what+is+naive+bayes&sourceid=chrome&ie=UTF-8) 
+					- good for spam detection and sentiment analysis
+					- naive: assume all inputs independent (simplification of reality)
+### *3.2 Secret Sharing Schemes (SSS)
+#### Full SSS
+- ALL the puzzle pieces are needed to reform the 'secret'
+#### Threshold SSS
+- You don't need all the puzzle pieces to reform the 'secret'
+- reduce computational load
+> while the threshold is set so that an attacker cannot master the required number of shares of the secret, or so that a preliminary collusion of the required number of participants cannot take place
+- [^3]How is this accomplished??
+#### More Questions...
+- What is SSS Asmut-Bloom?
+	- named after Charles Asmuth and John Bloom (1983 proposal)
+	- only minimum $t$ number of participants can reconstruct it
+		- if i'm understanding this correctly...
+			- $t-1$ participants CANNOT reconstruct
+			- but I guess $t + 1$ onwards can reconstruct?
+			- wait is that even possible if the original `secret` was only distributed among $t$ participants?
+			- hmmmmmmmmmmm
+	- key terms I don't fully understand: pairwise coprime integers (moduli)
+	- based on chinese remainder theorem (CRT)
+	- [Wikipedia: Secret Sharing](https://en.wikipedia.org/wiki/Secret_sharing) 
+	- Chinese remainder algorithm?
+	- [Chinese Remainder Theorem and Cards - Numberphile](https://www.youtube.com/watch?v=l9dXo5f3zDc)
+	- ![[CYNICS/Pasted image 20260320165939.png]]
+- note: SSS Mignotte has "works proving its unsuitability for security"
+### *3.3 Homomorphic Encryption (HE)
+- Define homomorphic:
+	- of the same or similar form
+	- homo = same
+	- morphic = shape
+
+
+
+
+
