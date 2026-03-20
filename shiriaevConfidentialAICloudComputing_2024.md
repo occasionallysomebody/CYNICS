@@ -1,6 +1,7 @@
 Accessed March 20, 2026
-####
+#### Tutorials
 https://github.com/ieshreya/Obsidian-Cheat-Sheet (keyboard shortcuts)
+https://www.youtube.com/watch?v=ImrLbomFYA0 (sync github and obsidean)
 # Questions
 - Is cloud computing different from cloud technologies?
 	- [SamsungDifferenceCloudComputingServicePlatform](https://www.samsungsds.com/en/cloud-glossary/difference-cloud-computing-service-platform.html)
@@ -66,7 +67,7 @@ https://github.com/ieshreya/Obsidian-Cheat-Sheet (keyboard shortcuts)
 						- `TEEs (trusted execution environments)`
 						- [NVIDIA's Confidential Computing](https://blogs.nvidia.com/blog/what-is-confidential-computing/) 
 							- root of trust (secured unique key per processor)
-							- ![[CYNICS/Pasted image 20260320153406.png]]
+							- ![[Pasted image 20260320153406.png]]
 							- [^1]: Attestation Diagram
 						- `Intel SGX`
 					- `secure model deployment`
@@ -157,11 +158,11 @@ https://github.com/ieshreya/Obsidian-Cheat-Sheet (keyboard shortcuts)
 				- "a big difference between 'regular' gradient descent and stochastic gradient descent is that SGD updates weights one singular random training example at a time"
 				- random, noisier, but faster
 				- but because of the noise tradeoff, using minibatch gradient descent (subsets of gradient descent) preferred
-				- ![[CYNICS/Pasted image 20260320155000.png]]
+				- ![[Pasted image 20260320155000.png]]
 				- [^2]:[IBM stochastic gradient descent](https://www.ibm.com/think/topics/stochastic-gradient-descent) 
 					- gradients are derivatives
 					- derivatives are the slope of the line tangent to the curve
-		- ![[CYNICS/Pasted image 20260320150812.png]]
+		- ![[Pasted image 20260320150812.png]]
 		- takes the opposite direction to minimize cost
 		- [kaggle code demo](https://www.kaggle.com/code/christianwittmann/visualizing-gradient-descent-in-3d) 
 		- local minima and saddle points
@@ -212,7 +213,7 @@ https://github.com/ieshreya/Obsidian-Cheat-Sheet (keyboard shortcuts)
 	- [Wikipedia: Secret Sharing](https://en.wikipedia.org/wiki/Secret_sharing) 
 	- Chinese remainder algorithm?
 	- [Chinese Remainder Theorem and Cards - Numberphile](https://www.youtube.com/watch?v=l9dXo5f3zDc)
-	- ![[CYNICS/Pasted image 20260320165939.png]]
+	- ![[Pasted image 20260320165939.png]]
 - note: SSS Mignotte has "works proving its unsuitability for security"
 ### *3.3 Homomorphic Encryption (HE)
 - Define homomorphic:
