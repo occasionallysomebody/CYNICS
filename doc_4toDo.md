@@ -7,10 +7,13 @@ You should get to a level of comfort where you don't have to rely on external so
 
 # Goal 2: Explain what fine-tuning is
 03/26/26 Understanding (might be wrong)
-- fine-tuning is different from pre-processing
+- fine-tuning is different from pre-processing or preventing over-fitting
 - fine-tuning can expand or narrow scope
 - for example: lets say you're training an image recognition model. the training data included faces. you can fine-tune to specialize in cat faces. or you can expand outside the training set so the model can work with recognizing armchairs.
 # Goal 3: Explain what web-crawling/scrapping is
 ## 3a. What infrastructure/software do you need to build your own?
-* we're interested in learning how to build 
+* we're interested in learning how to build our own web-crawlers
+* ex: oil company. wants to learn about xyz state. scape news for information
+	* questions: not everything you see on the internet is true. how do you filter?
+* reminder that there are also positive use-cases (health)
 [[doc3_toolStack]]
