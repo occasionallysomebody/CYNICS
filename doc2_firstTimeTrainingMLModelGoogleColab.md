@@ -9,3 +9,5 @@
 * potential plan of action/tech stack?
 	* google colab
 	* tensorflow
+* [to read later: hamzakhan building your won ai model with open-source tools](https://dev.to/hamzakhan/building-your-own-ai-model-with-open-source-tools-a-step-by-step-technical-guide-2c67) 
+* [onnx: open neural network exchange: open standard for machine learning](https://onnx.ai/) 
