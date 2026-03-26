@@ -5,3 +5,4 @@
 * [What is Tensorflow](https://www.tensorflow.org/learn) 
 * -> penguin_simple.ipynb tutorial
 	*  What is a pipeline?
+	* ooh i see the 180 assertion statements coming in handy
