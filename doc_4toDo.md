@@ -15,5 +15,5 @@ You should get to a level of comfort where you don't have to rely on external so
 * we're interested in learning how to build our own web-crawlers
 * ex: oil company. wants to learn about xyz state. scape news for information
 	* questions: not everything you see on the internet is true. how do you filter?
-* reminder that there are also positive use-cases (health)
+* reminder that there are also use-cases like healthcare
 [[doc3_toolStack]]
