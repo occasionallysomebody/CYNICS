@@ -4,3 +4,4 @@
 * [What is Flask?](https://www.geeksforgeeks.org/python/flask-tutorial/) 
 * [What is Tensorflow](https://www.tensorflow.org/learn) 
 * -> penguin_simple.ipynb tutorial
+	*  What is a pipeline?
