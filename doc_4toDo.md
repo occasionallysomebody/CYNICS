@@ -12,4 +12,5 @@ You should get to a level of comfort where you don't have to rely on external so
 - for example: lets say you're training an image recognition model. the training data included faces. you can fine-tune to specialize in cat faces. or you can expand outside the training set so the model can work with recognizing armchairs.
 # Goal 3: Explain what web-crawling/scrapping is
 ## 3a. What infrastructure/software do you need to build your own?
+* we're interested in learning how to build 
 [[doc3_toolStack]]
