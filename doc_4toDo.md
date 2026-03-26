@@ -5,7 +5,8 @@ You should get to a level of comfort where you don't have to rely on external so
 
 # Goal 2: Explain what fine-tuning is
 - fine-tuning is different from pre-processing
-- 
+- fine-tuning can expand or narrow scope
+- for example: lets say your training an image recog
 # Goal 3: Explain what web-crawling/scrapping is
 ## 3a. What infrastructure/software do you need to build your own?
 [[doc3_toolStack]]
