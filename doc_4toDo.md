@@ -3,7 +3,7 @@ You should get to a level of comfort where you don't have to rely on external so
 - NNs are just numbers and dot products at the end of the day
 # Goal 1: Explain what a neural network is
 [IBM NN](https://www.ibm.com/think/topics/neural-networks)
-
+[linear regression by hand](https://www.statology.org/linear-regression-by-hand/) 
 ## 1a. What is a feed forward NN?
 ## 1b. Find name of "populate with fake numbers"
 
