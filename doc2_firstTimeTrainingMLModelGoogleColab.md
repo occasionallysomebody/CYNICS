@@ -6,3 +6,6 @@
 * -> penguin_simple.ipynb tutorial
 	*  What is a pipeline?
 	* ooh i see the 180 assertion statements coming in handy
+* potential plan of action/tech stack?
+	* google colab
+	* tensorflow
