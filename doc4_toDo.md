@@ -15,6 +15,7 @@ You should get to a level of comfort where you don't have to rely on external so
 # Goal 3: Explain what web-crawling/scrapping is
 04/02/26 [How To Build A Webcrawler](https://bytebytego.com/courses/system-design-interview/design-a-web-crawler) 
 - [Ex post-facto risk, legal stuff, ethics](https://gemini.google.com/share/88241311e728) 
+- [[doc5_spreadsheet]]]
 ## 3a. What infrastructure/software do you need to build your own?
 * we're interested in learning how to build our own web-crawlers
 * ex: oil company. wants to learn about xyz state. scape news for information
