@@ -34,5 +34,7 @@
 - Focuses on Oil Rocks area near Azerbaijan, quantifying pollution sources from production facilities and natural seeps
 - Provides objective ecological risk assessment and environmental health data
 
-4. Azeri-Chirag-Guneshli
-5. Kashagan Field (Kazakhstan)
+**Other Notes:**
+- Azeri-Chirag-Guneshli (AGC)
+- Kashagan Field (Kazakhstan)
+- Dredging, Baku environmental impact, 
