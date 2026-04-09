@@ -112,6 +112,55 @@ I'm trying to understand my goal. The goal is to build a web crawler for an oil 
 3. **No Environmental Data**: Doesn't mention pollution, gas flaring, ecosystem impacts, or public health - the exact data you need
 4. **Zero Independent Verification**: Relies on industry estimates and US Energy Information Administration figures (which likely came from state sources)
 
+## Regulatory Bodies Overseeing ExxonMobil:
+
+ExxonMobil operates under extensive regulatory oversight at multiple levels:
+
+**Federal U.S. Regulators:**
+
+- **Securities and Exchange Commission (SEC)** - Oversees financial reporting, organizational compliance, and publicly traded securities
+- **Federal Energy Regulatory Commission (FERC)** - Primary regulator for oil and gas companies; controls pipeline rates and interstate transportation
+- **Environmental Protection Agency (EPA)** - Regulates emissions, sulfur standards, and environmental compliance
+- **Bureau of Land Management (BLM)** - Regulates federal onshore land operations
+- **Bureau of Ocean Energy Management (BOEM)** - Manages offshore exploration leases
+- **Bureau of Safety and Environmental Enforcement (BSEE)** - Enforces offshore safety and environmental regulations
+- **Pipeline and Hazardous Materials Safety Administration (PHMSA)** - Oversees pipeline safety
+- **Federal Trade Commission (FTC)** - Reviews mergers and competition issues (recently reviewed Exxon's Pioneer acquisition)
+
+**State Regulators:** Each state where ExxonMobil operates (Texas, Alaska, Louisiana, North Dakota, Oklahoma, California, etc.) has its own oil and gas regulatory commission with authority over intrastate operations.
+
+**International:** In countries where ExxonMobil operates (including Azerbaijan), it must comply with local regulatory bodies and international standards.
+
+## Funding Sources:
+
+**ExxonMobil does NOT receive government funding.** As a publicly traded corporation, its funding comes from:
+
+**1. Revenue from operations:**
+
+- Sales of oil, gas, petroleum products, and chemicals
+- Q3 2025 revenue: ~$83 billion for the quarter
+
+**2. Shareholders/Investors:**
+
+- **The Vanguard Group** (~9-10% ownership)
+- **BlackRock, Inc.** (~7-8%)
+- **State Street Global Advisors** (~4-5%)
+- Other institutional investors (Fidelity, pension funds, index funds)
+- Approximately 4.2 billion shares outstanding as of September 2025
+
+**3. Capital markets:**
+
+- Corporate bonds and debt issuances
+- Stock offerings
+
+**4. Capital returns:**
+
+- ExxonMobil returned $20 billion to shareholders via buybacks in 2025
+- Plans another $20 billion in buybacks for 2026
+- Pays dividends to shareholders ($1.03 per share declared)
+
+**Key point:** ExxonMobil is a profit-driven corporation accountable to shareholders and regulated by government agencies—but it does not receive government grants or subsidies as primary funding (though like all energy companies, it may benefit from tax provisions available to the industry).
+
 ---
 X **Other Notes:** 
 - Azeri-Chirag-Guneshli (AGC)
