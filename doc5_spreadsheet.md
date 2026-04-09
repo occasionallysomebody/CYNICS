@@ -1,3 +1,5 @@
+[[doc6_esg_sources_master.csv]] 
+
 1. Manually curate sources
 2. Caspian Sea Ecology?
 3. Need to vet these sources:
