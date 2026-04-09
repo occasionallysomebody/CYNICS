@@ -14,8 +14,8 @@
 	* international financial institution
 	* bias: relies on the honesty of the nations involved
 	* World Bank themselves isn't the one collecting the information
-	* relies on data provided by Azerbaijan's State Statistical Committee
-	* can use this source as a baseline for economic context, but flag as "state"
+	* relies on data provided by Azerbaijan's State Statistical Committee. this is self-reported data
+	* for training purposes, can use this source as a baseline for economic context, but flag as "state-derived" data
 
 **2. International Environmental NGO: [![](https://icons.duckduckgo.com/ip3/globalwitness.org.ico)Global Witness - Azerbaijani population at risk from gas flaring pollution](https://globalwitness.org/en/campaigns/fossil-fuels/hundreds-of-thousands-in-cop29-host-country-at-risk-from-gas-flaring-pollution/ "https://globalwitness.org/en/campaigns/fossil-fuels/hundreds-of-thousands-in-cop29-host-country-at-risk-from-gas-flaring-pollution/")**
 
@@ -24,6 +24,9 @@
 - Quantifies health risks: heart disease, stroke, respiratory issues linked to BP-operated Sangachal terminal near Caspian Sea
 - Shows 10.5% increase in flaring since 2018 with public health and climate data
 
+* direct measurement via satellite data on gas flaring
+* this is observed data, not self-reported
+
 **3. Academic Database: [![20](https://icons.duckduckgo.com/ip3/www.biotaxa.org.ico)Areas of Heavy Permanent Oil Pollution of the Caspian Sea Surface](https://www.biotaxa.org/em/article/download/86052/80833/361146 "https://www.biotaxa.org/em/article/download/86052/80833/361146")** 
 
 - Peer-reviewed study by Mityagina & Kostianoy (2024)
@@ -31,8 +34,8 @@
 - Focuses on Oil Rocks area near Azerbaijan, quantifying pollution sources from production facilities and natural seeps
 - Provides objective ecological risk assessment and environmental health data
 
+
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|     |     |     |     |     |
 |     |     |     |     |     |
 |     |     |     |     |     |
