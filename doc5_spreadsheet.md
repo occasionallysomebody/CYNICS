@@ -39,12 +39,17 @@
 - **Publisher**: Space Research Institute of Russian Academy of Sciences (November 2025)
 - **Why It's Trustworthy**: Maps Azerbaijan's Oil Rocks region pollution patterns with quantitative seasonal/spatial variability - **NOT dependent on Azerbaijan government reporting**
 
-5 [Independent Caspian Oil Monitoring]
+5 [Independent Caspian Oil Monitoring](https://transparentworld.tech/)
 - **Verification Method**: Sentinel-1 radar for all-weather oil film detection
 - **Publisher**: International environmental monitoring project (ongoing through 2025)
 - **Why It's Trustworthy**: Independent tracking of Azerbaijan sector. Example: documented 82.4 km² spill at Kazakh-Azeri border in August 2025. This is **real-time independent observation**, not self-reported data
 
+6 [Alphatic Hydrocarbons in Sturgeon](https://link.springer.com/article/10.1007/s11356-024-32653-y)
+- **Verification Method**: Direct biological sampling - hydrocarbon analysis in sturgeon fin spines
+- **Publisher**: Environmental Science and Pollution Research (March 2024, peer-reviewed)
+- **Why It's Trustworthy**: Found higher hydrocarbon concentrations and toxic elements (mercury) in northern Caspian (Azerbaijan side). **Direct ecological health measurements** from critically endangered species, independent academic research
 
+7 [Scale and History of ]
 
 **Other Notes:**
 - Azeri-Chirag-Guneshli (AGC)
