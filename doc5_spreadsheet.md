@@ -49,9 +49,23 @@
 - **Publisher**: Environmental Science and Pollution Research (March 2024, peer-reviewed)
 - **Why It's Trustworthy**: Found higher hydrocarbon concentrations and toxic elements (mercury) in northern Caspian (Azerbaijan side). **Direct ecological health measurements** from critically endangered species, independent academic research
 
-7 [Scale and History of ]
+7 [The oil and gas resource base of the Caspian region](https://www.sciencedirect.com/science/article/pii/S0920410500000759) 
+**What It Provides**:
 
-**Other Notes:**
+- Historical context: Azerbaijan was the world's biggest oil producer by the 1900s, with commercial extraction starting in the late 19th century
+- Reserve estimates for the region (Azerbaijan: 31-40 billion barrels oil potential, 46 trillion ft³ gas)
+- Geographic scope: 6 hydrocarbon basins underlying the Caspian Sea
+- Industry perspective: Why international companies got interested after Soviet Union breakup
+
+**Critical Limitations for Your Pipeline**:
+
+1. **Age**: Data is from 2000 - production patterns, reserve depletion, and environmental impacts have changed dramatically in 26 years
+2. **Industry-Centric**: Written from oil company perspective - focuses on "potential" and "allure" for extraction, not ecological or health consequences
+3. **No Environmental Data**: Doesn't mention pollution, gas flaring, ecosystem impacts, or public health - the exact data you need
+4. **Zero Independent Verification**: Relies on industry estimates and US Energy Information Administration figures (which likely came from state sources)
+
+----
+X **Other Notes:** 
 - Azeri-Chirag-Guneshli (AGC)
 - Kashagan Field (Kazakhstan)
 - Dredging (due to shrinking water levels), Baku environmental impact
