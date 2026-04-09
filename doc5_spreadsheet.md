@@ -10,6 +10,11 @@
 - Discusses vulnerabilities from declining oil production and global energy transition
 - Perfect for socio-economic impact and transparency metrics
 
+* What is the world bank?
+	* international financial institution
+	* bias: relies on the honesty of the nations involved
+	* World Bank themselve
+
 **2. International Environmental NGO: [![](https://icons.duckduckgo.com/ip3/globalwitness.org.ico)Global Witness - Azerbaijani population at risk from gas flaring pollution](https://globalwitness.org/en/campaigns/fossil-fuels/hundreds-of-thousands-in-cop29-host-country-at-risk-from-gas-flaring-pollution/ "https://globalwitness.org/en/campaigns/fossil-fuels/hundreds-of-thousands-in-cop29-host-country-at-risk-from-gas-flaring-pollution/")**
 
 - Published November 2024
