@@ -1,11 +1,13 @@
 1. Manually curate sources
 2. Caspian Sea Ecology?
 3. Need to vet these sources:
-4. ## Sources Added for Review:
+4. Sources Added for Review:
+
+Tags: observed-data, state-derived data
 
 ### Question:
 
-I'm trying to understand my goal. The goal is to build a web crawler for an oil company, which is inherently profit driven. How do you get them to care about ethics?
+I'm trying to understand my goal. The goal is to build a web crawler for an oil company (let's say Exxon Mobile), which is inherently profit driven. How do you get them to care about ethics?
 
 #### The Business Case:
 * Risk management: health crises near extraction sites -> lawsuits, operational shutdowns, government intervention
@@ -23,7 +25,7 @@ I'm trying to understand my goal. The goal is to build a web crawler for an oil 
 			* maybe adding united states policies as they come out
 			* United States doesn't answer to the EU
 			* But if EU disapproves of US policies, they can put trade blockages
-			* Exxon
+			* ExxonMobile
 * Your pipeline would function as an **early warning system**: "We're seeing elevated hydrocarbon levels in sturgeon tissue near our operations" = time to adjust before it becomes a legal/PR crisis
 * Generate ESB (Environmental, Social, Governance) reporting data
 * "Competitive Intelligence Disguised as Ethics": reports on gas flaring also tracks *where competitors are operating and how efficiently* 
