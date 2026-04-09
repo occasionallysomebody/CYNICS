@@ -84,6 +84,13 @@ I'm trying to understand my goal. The goal is to build a web crawler for an oil 
 - **Why It's Trustworthy**: Independent tracking of Azerbaijan sector. Example: documented 82.4 km² spill at Kazakh-Azeri border in August 2025. This is **real-time independent observation**, not self-reported data
 - Issues: no author profiles or institutional affiliations, languages listed on site are english and russian, timestamps link to russian tweets?
 
+- **Organizational Background:**
+- **Transparent World** is a legitimate non-profit organization (NGO) founded in **2000** and based in Moscow, Russia. They specialize in environmental applications of remote sensing and GIS technologies. Partners with major organizations
+- **Contact details:**
+- Address: Rossolimo str. 5/22, building 1, Moscow 119021, Russia
+- Phone/fax: +007 (499) 246-2593
+- Email: info@transparentworld.ru
+
 6 [Alphatic Hydrocarbons in Sturgeon](https://link.springer.com/article/10.1007/s11356-024-32653-y)
 - **Verification Method**: Direct biological sampling - hydrocarbon analysis in sturgeon fin spines
 - **Publisher**: Environmental Science and Pollution Research (March 2024, peer-reviewed)
