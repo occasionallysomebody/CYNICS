@@ -14,14 +14,16 @@ I'm trying to understand my goal. The goal is to build a web crawler for an oil 
 	* So who are you responsible to then?
 		* Your home state's regulators
 		* e.g. BP (British Petroleum) answers to UK/EU regulations
-		* If you're getting financed by an international instutution
+		* If you're getting financed by an international institution
 			* World Bank
 			* EBRD
 			* IFC
 			* EU Energy Import Standards
 			* okay so I should probably add those as sources
 			* maybe adding united states policies as they come out
-			* 
+			* United States doesn't answer to the EU
+			* But if EU disapproves of US policies, they can put trade blockages
+			* Exxon
 * Your pipeline would function as an **early warning system**: "We're seeing elevated hydrocarbon levels in sturgeon tissue near our operations" = time to adjust before it becomes a legal/PR crisis
 * Generate ESB (Environmental, Social, Governance) reporting data
 * "Competitive Intelligence Disguised as Ethics": reports on gas flaring also tracks *where competitors are operating and how efficiently* 
