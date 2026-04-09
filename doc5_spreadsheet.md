@@ -34,7 +34,17 @@
 - Focuses on Oil Rocks area near Azerbaijan, quantifying pollution sources from production facilities and natural seeps
 - Provides objective ecological risk assessment and environmental health data
 
-4. [Mapping Oil Pollution on the Caspian Sea Surface Using Satellite Remote Sensing data](https://www.researchgate.net/publication/398111740_Mapping_Oil_Pollution_on_the_Caspian_Sea_Surface_Using_Satellite_Remote_Sensing_Data_from_2022_to_2024) 
+4 [Mapping Oil Pollution on the Caspian Sea Surface Using Satellite Remote Sensing data](https://www.researchgate.net/publication/398111740_Mapping_Oil_Pollution_on_the_Caspian_Sea_Surface_Using_Satellite_Remote_Sensing_Data_from_2022_to_2024) 
+- **Verification Method**: Sentinel-1 SAR radar imagery (direct satellite observation)
+- **Publisher**: Space Research Institute of Russian Academy of Sciences (November 2025)
+- **Why It's Trustworthy**: Maps Azerbaijan's Oil Rocks region pollution patterns with quantitative seasonal/spatial variability - **NOT dependent on Azerbaijan government reporting**
+
+5 [Independent Caspian Oil Monitoring]
+- **Verification Method**: Sentinel-1 radar for all-weather oil film detection
+- **Publisher**: International environmental monitoring project (ongoing through 2025)
+- **Why It's Trustworthy**: Independent tracking of Azerbaijan sector. Example: documented 82.4 km² spill at Kazakh-Azeri border in August 2025. This is **real-time independent observation**, not self-reported data
+
+
 
 **Other Notes:**
 - Azeri-Chirag-Guneshli (AGC)
