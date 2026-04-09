@@ -3,7 +3,7 @@
 3. Need to vet these sources:
 4. Sources Added for Review:
 
-Tags: observed-data, state-derived data
+Tags: observed-data, state-derived data, ethics, profit
 
 ### Question:
 
@@ -63,6 +63,8 @@ I'm trying to understand my goal. The goal is to build a web crawler for an oil 
 
 * direct measurement via satellite data on gas flaring
 * this is observed data, not self-reported
+* Global Witness Foundation is a US-based charitable organisation that supports investigations and research exposing the causes and effects of environmental exploitation. **Global Witness Foundation is a 501(c)(3) registered charitable organisation based in the United States**.
+* NGO: Non-Governmental Organization
 
 **3. Academic Database: [![20](https://icons.duckduckgo.com/ip3/www.biotaxa.org.ico)Areas of Heavy Permanent Oil Pollution of the Caspian Sea Surface](https://www.biotaxa.org/em/article/download/86052/80833/361146 "https://www.biotaxa.org/em/article/download/86052/80833/361146")** 
 
