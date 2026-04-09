@@ -34,6 +34,8 @@
 - Focuses on Oil Rocks area near Azerbaijan, quantifying pollution sources from production facilities and natural seeps
 - Provides objective ecological risk assessment and environmental health data
 
+4. [Mapping Oil Pollution on the Caspian Sea Surface Using Satellite Remote Sensing data](https://www.researchgate.net/publication/398111740_Mapping_Oil_Pollution_on_the_Caspian_Sea_Surface_Using_Satellite_Remote_Sensing_Data_from_2022_to_2024) 
+
 **Other Notes:**
 - Azeri-Chirag-Guneshli (AGC)
 - Kashagan Field (Kazakhstan)
