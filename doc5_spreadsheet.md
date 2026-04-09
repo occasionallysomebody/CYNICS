@@ -64,7 +64,7 @@
 3. **No Environmental Data**: Doesn't mention pollution, gas flaring, ecosystem impacts, or public health - the exact data you need
 4. **Zero Independent Verification**: Relies on industry estimates and US Energy Information Administration figures (which likely came from state sources)
 
-----
+---
 X **Other Notes:** 
 - Azeri-Chirag-Guneshli (AGC)
 - Kashagan Field (Kazakhstan)
