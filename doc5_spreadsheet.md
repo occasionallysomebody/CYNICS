@@ -82,7 +82,7 @@ I'm trying to understand my goal. The goal is to build a web crawler for an oil 
 - **Verification Method**: Sentinel-1 radar for all-weather oil film detection
 - **Publisher**: International environmental monitoring project (ongoing through 2025)
 - **Why It's Trustworthy**: Independent tracking of Azerbaijan sector. Example: documented 82.4 km² spill at Kazakh-Azeri border in August 2025. This is **real-time independent observation**, not self-reported data
-- Issues: no author profiles or institutional affiliations
+- Issues: no author profiles or institutional affiliations, languages listed on site are english and russian, timestamps link to russian tweets?
 
 6 [Alphatic Hydrocarbons in Sturgeon](https://link.springer.com/article/10.1007/s11356-024-32653-y)
 - **Verification Method**: Direct biological sampling - hydrocarbon analysis in sturgeon fin spines
