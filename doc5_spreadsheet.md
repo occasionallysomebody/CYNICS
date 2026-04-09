@@ -12,7 +12,12 @@ I'm trying to understand my goal. The goal is to build a web crawler for an oil 
 	* But would the government actually intervene? They're actually incentivized to hide problems, not fix them.
 	* Aliyev's regime depends on hydrocarbon revenues for political stability
 	* So who are you responsible to then?
-		* 
+		* Your home state's regulators
+		* e.g. BP (British Petroleum) answers to UK/EU regulations
+		* If you're getting financed by an international instutution
+			* World Bank
+			* EBRD
+			* IFC
 * Your pipeline would function as an **early warning system**: "We're seeing elevated hydrocarbon levels in sturgeon tissue near our operations" = time to adjust before it becomes a legal/PR crisis
 * Generate ESB (Environmental, Social, Governance) reporting data
 * "Competitive Intelligence Disguised as Ethics": reports on gas flaring also tracks *where competitors are operating and how efficiently* 
