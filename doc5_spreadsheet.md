@@ -3,6 +3,13 @@
 3. Need to vet these sources:
 4. ## Sources Added for Review:
 
+### Question:
+I'm trying to understand my goal. The goal is to build a web crawler for an oil company, which is inherently profit driven. How do you get them to care about ethics?
+
+The Business Case:
+* Risk management: 
+
+
 **1. Multilateral Organization: [![](https://icons.duckduckgo.com/ip3/thedocs.worldbank.org.ico)World Bank Azerbaijan Macro Poverty Outlook April 2025](https://thedocs.worldbank.org/en/doc/d5f32ef28464d01f195827b7e020a3e8-0500022021/related/mpo-aze.pdf "https://thedocs.worldbank.org/en/doc/d5f32ef28464d01f195827b7e020a3e8-0500022021/related/mpo-aze.pdf")**
 
 - Published April 2025
