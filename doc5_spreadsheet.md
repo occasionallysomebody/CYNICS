@@ -7,7 +7,10 @@
 I'm trying to understand my goal. The goal is to build a web crawler for an oil company, which is inherently profit driven. How do you get them to care about ethics?
 
 The Business Case:
-* Risk management: 
+* Risk management: health crises near extraction sites -> lawsuits, operational shutdowns, government intervention
+	* But would the government actually intervene?
+* Your pipeline would function as an **early warning system**: "We're seeing elevated hydrocarbon levels in sturgeon tissue near our operations" = time to adjust before it becomes a legal/PR crisis
+* Generate ESB (Environmental, Social, Governance) eporting data
 
 
 **1. Multilateral Organization: [![](https://icons.duckduckgo.com/ip3/thedocs.worldbank.org.ico)World Bank Azerbaijan Macro Poverty Outlook April 2025](https://thedocs.worldbank.org/en/doc/d5f32ef28464d01f195827b7e020a3e8-0500022021/related/mpo-aze.pdf "https://thedocs.worldbank.org/en/doc/d5f32ef28464d01f195827b7e020a3e8-0500022021/related/mpo-aze.pdf")**
