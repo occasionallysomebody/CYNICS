@@ -3,7 +3,7 @@
 3. Need to vet these sources:
 4. Sources Added for Review:
 
-Tags: observed-data, state-derived data, ecology/public relations, h
+Tags: observed-data, state-derived data, ecology/public relations,
 
 ### Question:
 
@@ -26,6 +26,7 @@ I'm trying to understand my goal. The goal is to build a web crawler for an oil 
 			* United States doesn't answer to the EU
 			* But if EU disapproves of US policies, they can put trade blockages
 			* ExxonMobile
+			* What regulatory bodies does ExxonMobile answer to? What bodies do they get funding from?
 * Your pipeline would function as an **early warning system**: "We're seeing elevated hydrocarbon levels in sturgeon tissue near our operations" = time to adjust before it becomes a legal/PR crisis
 * Generate ESB (Environmental, Social, Governance) reporting data
 * "Competitive Intelligence Disguised as Ethics": reports on gas flaring also tracks *where competitors are operating and how efficiently* 
