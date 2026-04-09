@@ -37,4 +37,6 @@
 **Other Notes:**
 - Azeri-Chirag-Guneshli (AGC)
 - Kashagan Field (Kazakhstan)
-- Dredging, Baku environmental impact, 
+- Dredging (due to shrinking water levels), Baku environmental impact
+- Extraction rights conflict between Russia, Azerbaijan, Kazakhstan, Turkmenistan, Iran
+- Look into politics of neighboring countries as a factor
