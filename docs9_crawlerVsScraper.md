@@ -38,3 +38,5 @@ There are a few distinct problems your group might care about:
 **Scale and politeness** — less interesting research, more engineering. Unless your group specifically studies crawl ethics or web infrastructure.
 
 Research is different from building an enterprise grade product
+- some other tools I found
+- scrapling: self healing web scraping framework (traditionally, one misplaced class/div can break your pipelin,)
