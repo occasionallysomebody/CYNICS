@@ -38,10 +38,12 @@ There are a few distinct problems your group might care about:
 **Scale and politeness** — less interesting research, more engineering. Unless your group specifically studies crawl ethics or web infrastructure.
 
 Research is different from building an enterprise grade product
+>Are we trying to build a dashboard or research ways to improve crawlers?
 - some other tools I found
 - scrapling: self healing web scraping framework (traditionally, one misplaced class/div can break your pipelin, scrapling fixes this)
 - exa: apis for ai agents
--Firecrawl: The Web Data Engine
+
+Firecrawl: The Web Data Engine
 
 Firecrawl specializes in converting websites into clean, large language model-ready data (like Markdown or JSON). [[1](https://www.firecrawl.dev/blog/choosing-web-scraping-tools), [2](https://www.youtube.com/watch?v=2s2aR4rOQ8Y)]
 
