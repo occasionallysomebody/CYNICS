@@ -61,3 +61,5 @@ DeepSeek is a family of state-of-the-art LLMs (like the reasoning-focused DeepSe
 - **Integration:** Used to process, summarize, and act on raw text inputs
 
 - Exa, firecrawl, deepseek flow
+
+The idea: feed apis to exa, ask for similar 
