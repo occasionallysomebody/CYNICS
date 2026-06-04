@@ -1,0 +1,2 @@
+- crawler extracts raw unformatted data
+- scrapper formats
