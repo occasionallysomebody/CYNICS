@@ -23,3 +23,18 @@ Try to use free apis and feeds instead of crawling urls:
 - **Google News RSS** — `rss.app` or direct Google News URL filtered to "Azerbaijan energy" gives you structured headlines for free
 
 - structured information reduces parsing
+
+Potential research areas:
+#### What crawler research actually involves
+
+There are a few distinct problems your group might care about:
+
+**Discovery** — how do you find relevant pages you didn't know existed? Link following, sitemap parsing, search API seeding, feed monitoring. This is where interesting research lives around relevance scoring and frontier prioritization.
+
+**Extraction quality** — Trafilatura is already best-in-class for boilerplate removal. The research frontier here is more about structured extraction from messy real-world HTML, tables, PDFs.
+
+**Autonomous judgment** — deciding _what's worth crawling_ is an open problem. Using an LLM to score relevance before fetching, or to generate new seed queries, is genuinely novel and not a solved problem.
+
+**Scale and politeness** — less interesting research, more engineering. Unless your group specifically studies crawl ethics or web infrastructure.
+
+Research is different from building an enterprise grade product
