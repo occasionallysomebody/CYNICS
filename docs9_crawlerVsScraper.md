@@ -59,3 +59,5 @@ DeepSeek is a family of state-of-the-art LLMs (like the reasoning-focused DeepSe
 - **What it does:** Understands context, reasons through complex queries, and generates human-like text or code.
 - **Why it's unique:** DeepSeek provides top-tier reasoning and model performance at a fraction of the cost of legacy models (like GPT-4o or Claude 3.5).
 - **Integration:** Used to process, summarize, and act on raw text inputs
+
+- Exa, firecrawl, deepseek flow
