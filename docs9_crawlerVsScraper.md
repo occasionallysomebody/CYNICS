@@ -39,4 +39,21 @@ There are a few distinct problems your group might care about:
 
 Research is different from building an enterprise grade product
 - some other tools I found
-- scrapling: self healing web scraping framework (traditionally, one misplaced class/div can break your pipelin,)
+- scrapling: self healing web scraping framework (traditionally, one misplaced class/div can break your pipelin, scrapling fixes this)
+- exa: apis for ai agents
+-Firecrawl: The Web Data Engine
+
+Firecrawl specializes in converting websites into clean, large language model-ready data (like Markdown or JSON). [[1](https://www.firecrawl.dev/blog/choosing-web-scraping-tools), [2](https://www.youtube.com/watch?v=2s2aR4rOQ8Y)]
+
+- **What it does:** Crawls entire websites, handles dynamic JavaScript (SPA/React sites), takes screenshots, and performs multi-engine searches. [[1](https://www.youtube.com/watch?v=wAoJdpM_eTM), [2](https://www.youtube.com/watch?v=2s2aR4rOQ8Y)]
+- **Why it's unique:** Instead of using brittle CSS selectors or XPaths, you can use natural language prompts to extract specific structured data from complex pages. [[1](https://www.firecrawl.dev/blog/fine-tuning-deepseek)]
+- **Integration:** It seamlessly drops into RAG pipelines and AI agent workflows. [[1](https://www.youtube.com/watch?v=2s2aR4rOQ8Y), [2](https://www.firecrawl.dev/blog/choosing-web-scraping-tools)]
+- **Pricing:** Usage is based on page credits, and it features an open-source version for self-hosting. [[1](https://www.firecrawl.dev/alternatives/firecrawl-vs-apify), [2](https://www.firecrawl.dev/glossary/web-scraping-apis/what-is-open-source-web-scraping)]
+
+DeepSeek: The Intelligence Layer
+
+DeepSeek is a family of state-of-the-art LLMs (like the reasoning-focused DeepSeek R1 and V3) known for highly capable, low-cost APIs. [[1](https://www.revechat.com/blog/deepseek-vs-qwen/), [2](https://www.inferless.com/learn/the-ultimate-guide-to-deepseek-models), [3](https://medium.com/@amirabdallahpfe/lets-build-a-deepsearch-agent-using-agno-firecrawl-nebuis-ai-deepseek-v3-and-streamlit-20cf5231f511), [4](https://www.youtube.com/watch?v=WkLdLJJzV1k), [5](https://www.cbinsights.com/company/deepseek/alternatives-competitors)]
+
+- **What it does:** Understands context, reasons through complex queries, and generates human-like text or code.
+- **Why it's unique:** DeepSeek provides top-tier reasoning and model performance at a fraction of the cost of legacy models (like GPT-4o or Claude 3.5).
+- **Integration:** Used to process, summarize, and act on raw text inputs
