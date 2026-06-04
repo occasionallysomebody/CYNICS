@@ -10,3 +10,4 @@
 - goal.md (CEO.md)
 - agent_instructions.md
 - pipeline_instructions.md
+- python's version of javadocs: sphinx 
