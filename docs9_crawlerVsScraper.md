@@ -62,4 +62,7 @@ DeepSeek is a family of state-of-the-art LLMs (like the reasoning-focused DeepSe
 
 - Exa, firecrawl, deepseek flow
 
-The idea: feed apis to exa, ask for similar 
+The idea: feed apis to exa, ask for similar "vibes"
+feed urls from exa to firecrawl
+firecrawl gives you "raw" markdown etc files
+deepseek formats those files into insightful information?
