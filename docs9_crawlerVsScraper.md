@@ -40,7 +40,7 @@ There are a few distinct problems your group might care about:
 Research is different from building an enterprise grade product
 >Are we trying to build a dashboard or research ways to improve crawlers?
 - some other tools I found
-- scrapling: self healing web scraping framework (traditionally, one misplaced class/div can break your pipelin, scrapling fixes this)
+- [scrapling](https://scrapling.readthedocs.io/en/latest/index.html#star-history): self healing web scraping framework (traditionally, one misplaced class/div can break your pipelin, scrapling fixes this)
 - exa: apis for ai agents
 
 Firecrawl: The Web Data Engine
