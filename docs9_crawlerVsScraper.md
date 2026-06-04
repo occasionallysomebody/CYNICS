@@ -5,3 +5,7 @@
 >   - **Web Scraper:** Best for **data extraction and analytics**. It targets specific websites to pull out raw data (e.g., product prices, user reviews, or financial metrics) and exports it into a structured format like a CSV, JSON, or database for analysis. [[1](https://www.browse.ai/blog/web-scraping-vs-web-crawling-whats-the-difference), [2](https://zenscrape.com/how-can-a-web-scraper-get-information-on-your-competitors/), [3](https://www.promptcloud.com/blog/web-scraper-api-to-automate-data-collection/), [4](https://www.browse.ai/blog/web-scraping-vs-web-crawling-whats-the-difference), [5](https://medium.com/@Excellarate/web-scraping-introduction-applications-and-best-practices-c7e5eb06c07e)]
 
 - **lockfiles** let you update dependency versions without breaking other people's code
+- techdebt.md
+- implementationPlan.md
+- goal.md (CEO.md)
+- 
