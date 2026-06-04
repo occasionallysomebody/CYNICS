@@ -11,3 +11,15 @@
 - agent_instructions.md
 - pipeline_instructions.md
 - python's version of javadocs: sphinx 
+---
+Try to use free apis and feeds instead of crawling urls:
+- **EIA API** — free, has Azerbaijan production data, Caspian region reports
+- **World Bank API** — free, country indicators, governance scores
+- **SOFAZ (State Oil Fund of Azerbaijan)** — publishes reports, has an RSS feed
+- **EITI (Extractive Industries Transparency Initiative)** — structured data on oil revenues
+- **UN Comtrade API** — free, trade flow data
+- **ReliefWeb API** — free, humanitarian/risk reports by country
+- **GDELT Project** — free, massive event database pulling from news globally, has an Azerbaijan filter
+- **Google News RSS** — `rss.app` or direct Google News URL filtered to "Azerbaijan energy" gives you structured headlines for free
+
+- structured information reduces parsing
