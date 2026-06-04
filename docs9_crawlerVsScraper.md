@@ -6,6 +6,7 @@
 
 - **lockfiles** let you update dependency versions without breaking other people's code
 - techdebt.md
-- implementationPlan.md
+- implementation_plan.md
 - goal.md (CEO.md)
-- 
+- agent_instructions.md
+- pipeline_instructions.md
